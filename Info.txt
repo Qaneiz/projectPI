@@ -1,0 +1,3 @@
+Port: 22GSE = 
+Command: XY# = 
+Credentials: 
